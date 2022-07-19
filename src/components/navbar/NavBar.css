@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: grey;
+}
+
+.navbar__logo {
+    width: 80px;
+    height: 80px;
+}
+
+.navbar__nav {
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 5rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.navbar__button {
+    border-radius: 2rem;
+    width: 100px;
+    height: 3rem;
+    cursor: pointer;
+}
