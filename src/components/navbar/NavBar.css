@@ -28,3 +28,9 @@
     height: 3rem;
     cursor: pointer;
 }
+
+.navbarcart {
+    width: 70px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
